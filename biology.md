@@ -168,7 +168,7 @@ n对基因就是$(3+1)^n$
 $$(A+a)(B+b)=AB+Ab+aB+ab$$
 
 那么子代的基因型就是
-$$(AB+Ab+aB+ab)^2=AABB+2AABb+2AaBB+\\
+$$(AB+Ab+aB+ab)^2=AABB+2AABb+2AaBB+ \\
 4AaBb+AAbb+2Aabb+aaBB+2aaBb+aabb$$
 
 已经很复杂了，可以看出，只要***有交叉项，就乘了2***
