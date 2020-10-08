@@ -150,7 +150,7 @@ dNTP stands for Deoxyribose Nucleotide TriPhosphate
 
 ## 自由组合定律
 
-看到$$F_2$$代的比例加和等于16了，就要想想看是不是AaBb了
+看到$F_2$代的比例加和等于16了，就要想想看是不是AaBb了
 
 比如15:1，不就是（9+3+3）：1吗
 
