@@ -1,15 +1,3 @@
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
-
 # 基因工程
 
 ## PCR技术
@@ -66,7 +54,7 @@ dNTP stands for Deoxyribose Nucleotide TriPhosphate
 
 成熟的神经细胞时高度分化的细胞，不再分裂，因此无法在显微镜下看到神经细胞的有丝分裂图像
 
-同时遗传信息的传递过程也不再包括DNA$\longrightarrow$DNA，即DNA复制
+同时遗传信息的传递过程也不再包括DNA$$\longrightarrow$$DNA，即DNA复制
 
 # 胚胎工程
 
@@ -150,7 +138,7 @@ dNTP stands for Deoxyribose Nucleotide TriPhosphate
 
 ## 自由组合定律
 
-看到$F_2$代的比例加和等于16了，就要想想看是不是AaBb了
+看到$$F_2$$代的比例加和等于16了，就要想想看是不是AaBb了
 
 比如15:1，不就是（9+3+3）：1吗
 
@@ -158,9 +146,9 @@ dNTP stands for Deoxyribose Nucleotide TriPhosphate
 
 如何计算后代的性状分离比呢？
 
-两对基因，就是$(3+1)^2=9+3+3+1$
+两对基因，就是$$(3+1)^2=9+3+3+1$$
 
-n对基因就是$(3+1)^n$
+n对基因就是$$(3+1)^n$$
 
 如果要算基因型呢？
 
@@ -168,7 +156,7 @@ n对基因就是$(3+1)^n$
 $$(A+a)(B+b)=AB+Ab+aB+ab$$
 
 那么子代的基因型就是
-$$(AB+Ab+aB+ab)^2=AABB+2AABb+2AaBB+ \\
+$$(AB+Ab+aB+ab)^2=AABB+2AABb+2AaBB+ 
 4AaBb+AAbb+2Aabb+aaBB+2aaBb+aabb$$
 
 已经很复杂了，可以看出，只要***有交叉项，就乘了2***
@@ -177,7 +165,7 @@ $$(AB+Ab+aB+ab)^2=AABB+2AABb+2AaBB+ \\
 
 ## 测交
 
-对一个杂合$F_1$测交，如果测出了1：3，很有可能是双显才显，单显不显，也就是后代9：7
+对一个杂合$$F_1$$测交，如果测出了1：3，很有可能是双显才显，单显不显，也就是后代9：7
 
 ## 特殊情况
 
@@ -187,7 +175,7 @@ $$(AB+Ab+aB+ab)^2=AABB+2AABb+2AaBB+ \\
 
 ## 回交
 
-指$A$与$B_0,B_1,B_2,,,,B_n$杂交，目的是把A上的优良性状整合到B上去，过程伴随多次筛选
+指$$A$$与$$B_0,B_1,B_2,,,,B_n$$杂交，目的是把A上的优良性状整合到B上去，过程伴随多次筛选
 
 ## 遗传的基本规律是基因的传递规律
 
@@ -219,7 +207,7 @@ $$(AB+Ab+aB+ab)^2=AABB+2AABb+2AaBB+ \\
 
 # 基因的表达
 
-习惯性的我们会将一段基因以$5'$到$3'$的顺序来写，比如丝氨酸的密码子$5'AGU3'$
+习惯性的我们会将一段基因以$$5'$$到$$3'$$的顺序来写，比如丝氨酸的密码子$$5'AGU3'$$
 
 无论什么都是这个顺序
 
@@ -271,7 +259,7 @@ tRNA携带反密码子
 
 答哪一步到哪一步是什么操作的题，把***序号写全***，不确定就多写点
 
-初级精母细胞（减一）$\longrightarrow$次级精母细胞（减二）$\longrightarrow$精细胞（变形）$\longrightarrow$精子
+初级精母细胞（减一）$$\longrightarrow$$次级精母细胞（减二）$$\longrightarrow$$精细胞（变形）$$\longrightarrow$$精子
 
 ***写方程式配好系数***，哪怕是生物呢
 
@@ -301,7 +289,7 @@ tRNA携带反密码子
 
 ***依据必须是实验数据***，分析实验数据说话就行。理由不一定是实验数据，但可以借鉴
 
-问不同于亲本的性状的后代的占比，指不同于$F_1$和$P$
+问不同于亲本的性状的后代的占比，指不同于$$F_1$$和$$P$$
 
 减数第一次分裂，***不写罗马数字，全写汉字***
 
@@ -323,7 +311,7 @@ tRNA携带反密码子
 
 只要一件事情由两个因素影响就要把两个都答上，并且把***两个共同作用的效果答上***
 
-可以***通过$F_2$代性状分离比初步判断一个基因受几对等位基因控制***，比如15:1,9:7
+可以***通过$$F_2$$代性状分离比初步判断一个基因受几对等位基因控制***，比如15:1,9:7
 
 一个东西高产，既可以是量多，也可以是单个果实大
 
