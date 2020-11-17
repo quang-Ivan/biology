@@ -15,7 +15,7 @@ print_background: false
 
 ## PCR技术
 
-![pcr1.png](https://s1.ax1x.com/2020/10/13/0hbwvT.png)
+![pcr1.png](https://cdn.jsdelivr.net/gh/quang-Ivan/pics/pcr1.png)
 
 一，变性；二，退火，引物上位；三，延伸，向着自己的53方向（五三！）
 
@@ -29,7 +29,7 @@ dNTP stands for Deoxyribose Nucleotide TriPhosphate
 
 ### 补
 
-![DNA1.jpg](https://s1.ax1x.com/2020/10/13/0hbd2V.jpg)
+![DNA1.jpg](https://cdn.jsdelivr.net/gh/quang-Ivan/pics/DNA1.jpg)
 
 磷酸基团和3’羟基形成3‘5’磷酸二酯键
 
@@ -43,7 +43,7 @@ dNTP stands for Deoxyribose Nucleotide TriPhosphate
 
 ## 动物细胞培养
 
-![ANC1.jpg](https://s1.ax1x.com/2020/10/13/0hba80.jpg)
+![ANC1.jpg](https://cdn.jsdelivr.net/gh/quang-Ivan/pics/ANC1.jpg)
 
 需要加入小牛血清做外环境，以及放入CO2培养箱中培养
 
@@ -109,7 +109,7 @@ dNTP stands for Deoxyribose Nucleotide TriPhosphate
 
 柠檬酸循环是细胞呼吸的第二阶段
 
-![TAC1.jpg](https://s1.ax1x.com/2020/10/13/0hbUCq.jpg)
+![TAC1.jpg](https://cdn.jsdelivr.net/gh/quang-Ivan/pics/TAC1.jpg)
 
 产生了CO2，NADH（[H]），FADH2，[H]的作用其实在电子传递链，主要供能
 
@@ -119,7 +119,7 @@ dNTP stands for Deoxyribose Nucleotide TriPhosphate
 
 卡尔文循环是光合作用里发生在暗反应阶段的循环
 
-![CC1.jpg](https://s1.ax1x.com/2020/10/13/0hbBKU.jpg)
+![CC1.jpg](https://cdn.jsdelivr.net/gh/quang-Ivan/pics/CC1.jpg)
 
 大概过程是一个CO2和5碳化合物变成3碳化合物再变回5碳化合物的过程，中间需要ATP和[H]
 
